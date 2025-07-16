@@ -70,10 +70,6 @@
 * [cite_start]**Core Features:** Handled user authentication, product management, and cart operations on the backend[cite: 57]. [cite_start]The app features session management, dynamic content, and real-time cart updates[cite: 59].
 * [cite_start]**Technologies:** `Java (Servlets & JDBC)`, `MySQL`, `HTML`, `CSS`, `JavaScript`, `Maven`, `Tomcat`[cite: 55].
 
-#### 🗑️ Smart-I Dustbin
-* [cite_start]**Description:** A system that addresses efficient garbage disposal by tracking fill levels and locations of dustbins to prevent overflow[cite: 50, 51].
-* [cite_start]**My Role:** As the team's coder, I developed the software for tracking and reporting the dustbin status[cite: 52].
-* [cite_start]**Technologies:** `Arduino`, `ESP8266`, `C++`[cite: 49].
 
 ---
 
