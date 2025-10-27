@@ -41,7 +41,7 @@ Here are some of the key projects I've worked on.
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-  <a href="PowerBI-Labour-Metrics-Dashboard" target="_blank">
+  <a href="https://github.com/Kankati-Aneesh/PowerBI-Labour-Metrics-Dashboard" target="_blank">
     📈 Labour Metrics Dashboard
   </a>
 </h3>
