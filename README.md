@@ -40,7 +40,11 @@ Here are some of the key projects I've worked on.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📈 Labour Metrics Dashboard</h3>
+      <h3 align="center">
+  <a href="PowerBI-Labour-Metrics-Dashboard" target="_blank">
+    📈 Labour Metrics Dashboard
+  </a>
+</h3>
       <p>Developed at FedEx, this dashboard provides real-time insights into warehouse operations by tracking KPIs like Productivity, Efficiency, and Utilization.</p>
       <ul>
         <li>Cleaned and modeled data using <strong>Power Query</strong>.</li>
