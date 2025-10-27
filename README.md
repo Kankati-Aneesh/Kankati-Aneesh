@@ -4,7 +4,7 @@
     Hi there, I'm Kankati Aneesh
   </h1>
   <p>
-    A results-driven Computer Science undergraduate and Data Analyst Intern at FedEx Logistics. I thrive on solving complex problems, building robust applications, and transforming data into impactful business intelligence.
+    A results-driven Computer Science undergraduate and Ex-Data Analyst Intern at FedEx Logistics. I thrive on solving complex problems, building robust applications, and transforming data into impactful business intelligence.
   </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/kankatianeesh/" target="_blank">
