@@ -27,8 +27,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anion12&show_icons=true&theme=radical&rank_icon=github" alt="Kankati Aneesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anion12&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kankati-Aneeesh&show_icons=true&theme=radical&rank_icon=github" alt="Kankati Aneesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kankati-Aneesh&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
