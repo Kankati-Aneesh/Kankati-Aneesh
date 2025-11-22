@@ -56,15 +56,19 @@ Here are some of the key projects I've worked on.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 ShopEase E-commerce Platform</h3>
-      <p>A full-stack mini e-commerce web app built to provide a seamless user shopping experience.</p>
+      <h3 align="center">
+        <a href="https://github.com/Kankati-Aneesh/Excel-Salary-Dashboard" target="_blank">
+          📊 Global Data Roles Salary Dashboard
+        </a>
+      </h3>
+      <p>A dynamic Excel tool analyzing 32,000+ job market records to visualize global salary trends.</p>
       <ul>
-        <li>Developed the backend using <strong>Java Servlets & JDBC</strong> for user authentication, product management, and cart operations.</li>
-        <li>Created dynamic content rendering and real-time cart updates.</li>
-        <li>Deployed on <strong>Apache Tomcat</strong> with Maven for build management.</li>
+        <li>Engineered an <strong>Advanced Analytics Engine</strong> using <code>AGGREGATE</code>, <code>XLOOKUP</code>, and array formulas.</li>
+        <li>Built a dynamic UI with <strong>Data Validation</strong> and Slicers for real-time filtering.</li>
+        <li>Calculated complex metrics like Median Salary and Platform Performance dynamically.</li>
       </ul>
       <p align="center">
-        <strong>Tools:</strong> Java, Servlets, JDBC, MySQL, HTML, CSS, JS, Maven
+        <strong>Tools:</strong> Advanced Excel, Pivot Tables, Data Validation
       </p>
     </td>
   </tr>
@@ -101,7 +105,7 @@ Here are some of the key projects I've worked on.
 ### 💻 My Tech Stack
 
 - **Languages:** `Java`, `Python`, `SQL`, `C++`
-- **Data & BI:** `Power BI`, `DAX`, `Numpy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`
+- **Data & BI:** `Power BI`, `DAX`, `Excel (Advanced)`, `Numpy`, `Pandas`, `Matplotlib`
 - **Web & Backend:** `HTML`, `CSS`, `JavaScript`, `Java Servlets`, `JDBC`, `MySQL`
 - **Tools & Platforms:** `Git`, `VS Code`, `PyCharm`, `Jupyter Notebook`, `Linux`, `Maven`, `Tomcat`, `AWS (Basics)`
 - **Hardware:** `Arduino`, `ESP8266`
