@@ -41,10 +41,10 @@ Here are some of the key projects I've worked on.
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-  <a href="https://github.com/Kankati-Aneesh/PowerBI-Labour-Metrics-Dashboard" target="_blank">
-    📈 Labour Metrics Dashboard
-  </a>
-</h3>
+        <a href="https://github.com/Kankati-Aneesh/PowerBI-Labour-Metrics-Dashboard" target="_blank">
+          📈 Labour Metrics Dashboard
+        </a>
+      </h3>
       <p>Developed at FedEx, this dashboard provides real-time insights into warehouse operations by tracking KPIs like Productivity, Efficiency, and Utilization.</p>
       <ul>
         <li>Cleaned and modeled data using <strong>Power Query</strong>.</li>
@@ -74,6 +74,18 @@ Here are some of the key projects I've worked on.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🛒 E-Commerce Customer Segmentation</h3>
+      <p>An end-to-end SQL analytics pipeline analyzing 1 Million+ raw GA4 web logs to solve customer retention problems.</p>
+      <ul>
+        <li>Processed <strong>Nested JSON Data</strong> in BigQuery using <strong>Advanced SQL (UNNEST & CTEs)</strong>.</li>
+        <li>Built an <strong>RFM Model</strong> (Recency, Frequency, Monetary) identifying that 27% of users drive 62% of revenue.</li>
+        <li>Created <strong>Conversion Funnels</strong> detecting a 98% drop-off at the checkout phase.</li>
+      </ul>
+      <p align="center">
+        <strong>Tools:</strong> Google BigQuery, SQL, Python
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🤖 MENU-Based Terminal App</h3>
       <p>A multi-functional Python application that streamlines complex tasks directly from the terminal.</p>
       <ul>
@@ -85,18 +97,6 @@ Here are some of the key projects I've worked on.
         <strong>Tools:</strong> Python, Libraries and APIs
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🗑️ Smart-I Dustbin</h3>
-      <p>An award-winning IoT project designed to optimize urban waste management by preventing dustbin overflow.</p>
-      <ul>
-        <li>The system tracks fill levels and pinpoints dustbin locations for efficient garbage disposal.</li>
-        <li>As the coder, I developed the software for tracking and reporting dustbin status.</li>
-        <li>Won <strong>first prize at Innovation Day-2023</strong>.</li>
-      </ul>
-      <p align="center">
-        <strong>Tools:</strong> Arduino, ESP8266, C++
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -105,7 +105,7 @@ Here are some of the key projects I've worked on.
 ### 💻 My Tech Stack
 
 - **Languages:** `Java`, `Python`, `SQL`, `C++`
-- **Data & BI:** `Power BI`, `DAX`, `Excel (Advanced)`, `Numpy`, `Pandas`, `Matplotlib`
+- **Data & BI:** `Power BI`, `DAX`, `Excel (Advanced)`, `Numpy`, `Pandas`, `Matplotlib`, `BigQuery`
 - **Web & Backend:** `HTML`, `CSS`, `JavaScript`, `Java Servlets`, `JDBC`, `MySQL`
 - **Tools & Platforms:** `Git`, `VS Code`, `PyCharm`, `Jupyter Notebook`, `Linux`, `Maven`, `Tomcat`, `AWS (Basics)`
 - **Hardware:** `Arduino`, `ESP8266`
