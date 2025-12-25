@@ -74,7 +74,8 @@ Here are some of the key projects I've worked on.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 E-Commerce Customer Segmentation</h3>
+      <h3 align="center">
+        <a href="https://github.com/Kankati-Aneesh/ecommerce-behavioral-analytics-bigquery" target="_blank">🛒 E-Commerce Customer Segmentation</a></h3>
       <p>An end-to-end SQL analytics pipeline analyzing 1 Million+ raw GA4 web logs to solve customer retention problems.</p>
       <ul>
         <li>Processed <strong>Nested JSON Data</strong> in BigQuery using <strong>Advanced SQL (UNNEST & CTEs)</strong>.</li>
