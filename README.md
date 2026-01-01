@@ -100,10 +100,10 @@ Here are some of the key projects I've worked on, bridging Supply Chain Operatio
 
 ### 💻 My Tech Stack
 
-- **Languages:** `Java`, `Python`, `SQL`, `C++`
+- **Languages:**  `Python`, `SQL`
 - **Data & BI:** `Power BI`, `DAX`, `Excel (Advanced)`, `Numpy`, `Pandas`, `Matplotlib`, `Scikit-Learn`, `BigQuery`
 - **Web & Backend:** `HTML`, `CSS`, `JavaScript`, `Java Servlets`, `JDBC`, `MySQL`
-- **Tools & Platforms:** `Git`, `VS Code`, `PyCharm`, `Jupyter Notebook`, `Linux`, `Maven`, `Tomcat`, `AWS (Basics)`
+- **Tools & Platforms:** `Git`, `VS Code`, `PyCharm`, `Jupyter Notebook`, `Linux`, `Maven`, `Tomcat`, `GCP`
 - **Hardware:** `Arduino`, `ESP8266`
 
 ---
