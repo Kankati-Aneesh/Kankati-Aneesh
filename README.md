@@ -110,11 +110,11 @@ Here are some of the key projects I've worked on, bridging Supply Chain Operatio
 
 ### 👨‍💻 Professional Experience
 
-**Summer Intern - Data Analyst** @ **FedEx Logistics** (Hyderabad | June - Present)
-- Currently working with the Business Intelligence (BI) team.
-- Creating an interactive Labour Metrics Dashboard in Power BI to track Productivity, Utilization, and Effectiveness.
-- Assisting in the development and optimization of data-driven solutions.
-- Working with BI tools and data analysis techniques to support decision-making.
+**Summer Intern - Data Analyst** @ **FedEx Logistics** (Hyderabad | June - July)
+- worked with the Business Intelligence (BI) team.
+- Created an interactive Labour Metrics Dashboard in Power BI to track Productivity, Utilization, and Effectiveness.
+- Assisted in the development and optimization of data-driven solutions.
+- Worked with BI tools and data analysis techniques to support decision-making.
 
 ---
 
