@@ -27,11 +27,14 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kankati-Aneesh&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kankati-Aneesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kankati-Aneesh&show_icons=true&theme=radical&hide_border=true&count_private=true&v=2" alt="Kankati Aneesh's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kankati-Aneesh&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kankati-Aneesh&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
 ---
 
 ### 🚀 My Projects
